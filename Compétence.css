@@ -1,0 +1,87 @@
+
+.compe1{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.Nom1{
+    font-size: 30px;
+}
+.bar1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bar1 p{
+    font-size: 40px;
+    margin-left: 10px;
+}
+.bar1 div{
+    width: 80%;
+    height: 10px;
+    background-color: white;
+}
+.bar1 div div{
+    width: 20%;
+    height: 10px;
+    background-color: #0BD8B6;
+    box-shadow:0px 1px 30px #0BD8B6;
+}
+.compe2{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.Nom2{
+    font-size: 30px;
+}
+.bar2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bar2 p{
+    font-size: 40px;
+    margin-left: 10px;
+}
+.bar2 div{
+    width: 80%;
+    height: 10px;
+    background-color: white;
+}
+.bar2 div div{
+    width: 5%;
+    height: 10px;
+    background-color: #0BD8B6;
+    box-shadow:0px 1px 30px #0BD8B6;
+}
+.compe3{
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+.Nom3{
+    font-size: 30px;
+}
+.bar3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bar3 p{
+    font-size: 40px;
+    margin-left: 10px;
+}
+.bar3 div{
+    width: 80%;
+    height: 10px;
+    background-color: white;
+}
+.bar3 div div{
+    width: 5%;
+    height: 10px;
+    background-color: #0BD8B6;
+    box-shadow:0px 1px 30px #0BD8B6;
+}
+#Compétence{
+    text-decoration: underline;
+    background-color: #222222;
+    text-shadow:1px 1px 50px #0BD8B6;
+}
