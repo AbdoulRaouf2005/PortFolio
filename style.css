@@ -184,15 +184,20 @@ span{
     background-color: #222222;
     text-shadow:1px 1px 50px #0BD8B6;
 }
+@media screen and (max-width:1000px){
+    aside{
+        flex-wrap: wrap;
+    }
+}   
 aside{
     margin-top: 100px;
     height: 10cm;
     width: 100%;
     position: relative;
     top: 3cm;
-    /*display: flex;
+    display: flex;
     justify-content: space-evenly;
-    align-items: center;*/
+    align-items: center;
 }                                                                                                                           
 aside div{
     width: 20%;
