@@ -200,11 +200,12 @@ aside{
     align-items: center;
 }                                                                                                                           
 aside div{
-    width: 20%;
-    height: 150px;
+    width: 300px;
+    height: 200px;
     background-color: #222222;
     border-radius: 10px;
     box-shadow:1px 1px 40px #0BD8B6;
+    margin:40px;
 }
 .GENDY:hover{
     transform: scale(1.5);
